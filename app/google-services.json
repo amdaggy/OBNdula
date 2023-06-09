@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243614844868",
+    "project_id": "obndula",
+    "storage_bucket": "obndula.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243614844868:android:6a75f9572d101666b38691",
+        "android_client_info": {
+          "package_name": "com.example.obndula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243614844868-ai6ltif4f6p39ukgevochkgkknms5j2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ7UHr3-q0OU2_sNElH701PPU5ZXhc9CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243614844868-ai6ltif4f6p39ukgevochkgkknms5j2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
